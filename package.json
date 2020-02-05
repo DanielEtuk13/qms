@@ -1,0 +1,32 @@
+{
+  "name": "qms",
+  "version": "1.0.0",
+  "description": "Queue Management System by Kuango Tech Ltd",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielEtuk13/qms.git"
+  },
+  "author": "Danny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielEtuk13/qms/issues"
+  },
+  "homepage": "https://github.com/DanielEtuk13/qms#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "next": "^9.0.5",
+    "node-sass": "^4.12.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "nextjs-sitemap-generator": "^0.1.1"
+  }
+}
