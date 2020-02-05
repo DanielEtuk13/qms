@@ -6,8 +6,8 @@ const Header = () => {
       <div className="header__container">
         <Link href="/">
           <div className="header__logo-container">
-            <img src="static/logo.svg" alt="" className="header__logo" />
-            <span className="header__title">KuangoQMS</span>
+            <img src="static/kuango_logo.jpg" alt="" className="header__logo" />
+            <span className="header__title">Queue Management System</span>
           </div>
         </Link>
 
